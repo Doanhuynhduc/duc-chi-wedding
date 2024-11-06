@@ -41,10 +41,12 @@
         flex-direction: column;
     }
     .box_right .name5, .box_right .name6 {
+   
         font-family: 'Alex Brush', cursive;
         font-size: 8vw;
         font-weight: 600;
         padding: 10px;
+        width: 20%;
     }
     .box2 .w70 {
         width: 100%;
